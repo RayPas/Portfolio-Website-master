@@ -5,7 +5,7 @@ module.exports = {
     title: ' Raymond Pasion',
     description:
       "Raymond Pasion's Portfolio Website",
-    siteUrl: 'https://vijayraja.tech', // No trailing slash allowed!
+    siteUrl: 'https://raymondpasion.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@FourGosh',
   },
