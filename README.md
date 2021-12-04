@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://user-images.githubusercontent.com/63943580/104952947-7c92eb80-5993-11eb-9e53-62c1a9221f4b.png" alt="Netlify Status" />
+    <img src="" />
   </a>
 </p>
 
